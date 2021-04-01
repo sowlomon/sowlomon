@@ -7,7 +7,7 @@
 - Always willing to learn new technologies👨‍💻
 - studying computer engineering at kaduna polytechnic Nigeria
 - aspiring full-stack developer
-- i'm currently react.js
+- i'm currently studying react.js
 
 ### ✈TECH STACK
 
