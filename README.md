@@ -2,7 +2,7 @@
 
 ### 👨‍💻ABOUT ME
 
-- I am young boy👨who is in love with technology and and creative processes.
+- I am young boy👨who is in love with technology and creative processes.
 - I love to colaborate and work with teams
 - Always willing to learn new technologies👨‍💻
 - studying computer engineering at kaduna polytechnic Nigeria
