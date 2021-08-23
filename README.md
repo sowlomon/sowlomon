@@ -11,11 +11,13 @@
 
 ### ✈TECH STACK
 
-- JavaScript
-- HTML/CSS
 - React.js
-- Git
+- JavaScript 
+- Html
+- Css
 - Sass
+- Git
+- GitHub 
 
 ### Github stats
 
