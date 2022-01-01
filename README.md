@@ -7,17 +7,20 @@
 - Always willing to learn new technologies👨‍💻
 - studying computer engineering at kaduna polytechnic Nigeria
 - aspiring full-stack developer
-- i'm currently learning react.js and Typescript
+- i'm currently learning node.js and web 3
 
 ### ✈TECH STACK
 
 - React.js
 - JavaScript 
+- Typescript
+- Next js
 - Html
 - Css
 - Sass
 - Git
 - GitHub 
+
 
 ### Github stats
 
