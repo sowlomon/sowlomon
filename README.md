@@ -5,7 +5,6 @@
 - I am software engineer in love with technology and creative processes.
 - I love to colaborate and work with teams
 - Always willing to learn new technologies👨‍💻
-- studying computer engineering at kaduna polytechnic Nigeria
 - aspiring full-stack developer
 - i'm currently learning node.js and web 3
 
