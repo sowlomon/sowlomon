@@ -2,10 +2,10 @@
 
 ### 👨‍💻ABOUT ME
 
-- I am software engineer in love with technology and creative processes.
+- Software engineer in love with technology and creative processes.
 - I love to colaborate and work with teams
 - Always willing to learn new technologies👨‍💻
-- aspiring full-stack developer
+- On my way to becoming a full-stack dev
 - i'm currently learning node.js and web 3
 
 ### ✈TECH STACK
