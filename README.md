@@ -14,6 +14,9 @@
 - JavaScript 
 - Typescript
 - Next js
+- node.js
+- mongoDB
+- Express
 - Html
 - Css
 - Sass
