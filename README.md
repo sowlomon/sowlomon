@@ -5,7 +5,7 @@
 - Software engineer in love with technology and creative processes.
 - I love to colaborate and work with teams
 - Always willing to learn new technologies👨‍💻
-- On my way to becoming a full-stack dev
+- full-stack developer
 - i'm currently learning node.js and web 3
 
 ### ✈TECH STACK
